@@ -9,9 +9,22 @@
  
  Computer Science and Technology Department 
  
+---
+
 
 ## INTERNSHIP EXPERIENCE
 
-### Tencent Inc. | research intern
+### Tencent Inc. | AILab | research intern
 
-Research in AI image compression
+Research in AI image compression and AIGC.
+
+
+---
+
+## PUBLICATIONS
+
+Preprints: 
+
+
+
+
