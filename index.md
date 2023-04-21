@@ -16,13 +16,15 @@ School of Computer Science and Technology
 
 ### Tencent Inc. | AILab | research intern | 2022.05 - Present
 
-Research in AI image compression and AIGC.
+Research in neural image compression.
 
 
 ---
 
+## PUBLICATIONS
 
+### Under review
 
+![avatar](MM2023.png)
 
-
-
+![avatar](compare.png)
