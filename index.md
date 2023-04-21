@@ -1,15 +1,13 @@
-# Yue Lv
-
 ## EDUCATION BACKGROUND
 
- Tsinghua University \| Master 
+ Master  \| Tsinghua University \| Sep 2021 - Jun 2024
  
- Tsinghua Shenzhen International Graduate School \| Sep 2021 - Jun 2024
+ Tsinghua Shenzhen International Graduate School 
 
 
- Harbin Institute of Technology \| Bachelor 
+ Bachelor \| Harbin Institute of Technology \| Aug 2017 - May 2021
  
- Computer Science and Technology Department \| Aug 2017 - May 2021
+ Computer Science and Technology Department 
  
 
 ## INTERNSHIP EXPERIENCE
