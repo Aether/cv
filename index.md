@@ -1,11 +1,11 @@
 ## EDUCATION BACKGROUND
 
-### **Master**  \| Tsinghua University \| Sep 2021 - Jun 2024
+### **Master**  \| Tsinghua University \| 2021.09 - 2024.06
  
 Tsinghua Shenzhen International Graduate School 
 
 
-### **Bachelor** \| Harbin Institute of Technology \| Aug 2017 - May 2021
+### **Bachelor** \| Harbin Institute of Technology \| 2017.08 - 2021.06
  
 School of Computer Science and Technology
  
@@ -14,7 +14,7 @@ School of Computer Science and Technology
 
 ## INTERNSHIP EXPERIENCE
 
-### Tencent Inc. | AILab | research intern | May 2022 - Present
+### Tencent Inc. | AILab | research intern | 2022.05 - Present
 
 Research in AI image compression and AIGC.
 
